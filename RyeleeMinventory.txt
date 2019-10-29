@@ -1,0 +1,1 @@
+Race,Human,Weapon,Bat,Health,75,Level,1
